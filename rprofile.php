@@ -1,4 +1,4 @@
-?php
+<?php
 require 'file/connection.php';
 session_start();
 if(!isset($_SESSION['rid']))
